@@ -295,5 +295,77 @@ footer .footInfo p{
     margin: 10px;
 }
 
+/*CSS PRODUTO*/
+.retornoDePaginas img{
+    width: 10px;
+    height: 10upx;
+}
 
+.imagemProdutoPreco img {
+    width: 521px;
+    height: 521px;
+    left: 57px;
+    top: 520px;
+}
 
+.imagemProdutoPreco{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+    display: flex;
+    
+}
+
+.botaoQtdEadicionar{
+    width: 450px;
+    height: 152px;
+    left: 672px;
+    top: 819px;
+    background: #454956;
+    border-radius: 18px;
+    background: rgba(69, 73, 86, 1);
+    align-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FFFFFF;
+    
+}
+
+.botaoQtdEadicionar button{
+    width: 213px;
+    height: 79px;
+    left: 650px;
+    top: 903px;
+    border-radius: 18px;
+}
+.newBotton{
+    display: flex;
+    justify-content: space-around;
+}
+
+.numberQuantity{
+    width: 213px;
+    height: 79px;
+    left: 719px;
+    top: 903px;
+    background: #FFFFFF;
+    border-radius: 18px;
+}
+
+.textoDescricaoProduto{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: #000000;
+    margin-left: 57px;
+    margin-right: 57px;
+    margin-bottom: 55px;
+
+}
